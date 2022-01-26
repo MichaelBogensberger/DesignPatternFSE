@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WR Log</title>
+  <subtitle>{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 16:5:36} {Timestamp = Wed Jan 26 12:12:33 CET 2022}, calculated=12.6}</subtitle>
+</feed>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WR Log</title>
+  <subtitle>{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 16:6:39} {Timestamp = Wed Jan 26 12:12:39 CET 2022}, calculated=12.6}</subtitle>
+</feed>
+

@@ -1,11 +1,3 @@
 
 ---------------------- LOG eintrag ----------------------
-{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 1:8:47} {Timestamp = Wed Jan 26 10:42:52 CET 2022}, calculated=12.6}
----------------------- LOG eintrag ----------------------
-{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 1:9:35} {Timestamp = Wed Jan 26 10:42:57 CET 2022}, calculated=12.6}
----------------------- LOG eintrag ----------------------
-{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 1:22:53} {Timestamp = Wed Jan 26 10:44:17 CET 2022}, calculated=12.6}
----------------------- LOG eintrag ----------------------
-{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 1:34:0} {Timestamp = Wed Jan 26 10:45:24 CET 2022}, calculated=12.6}
----------------------- LOG eintrag ----------------------
-{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 8:41:47} {Timestamp = Wed Jan 26 11:28:10 CET 2022}, calculated=12.6}
+{variante=EUR2GBP, ausgangsbetrag=15.0, time={SysUpTime = 190184 days 13:37:57} {Timestamp = Wed Jan 26 11:57:47 CET 2022}, calculated=12.6}

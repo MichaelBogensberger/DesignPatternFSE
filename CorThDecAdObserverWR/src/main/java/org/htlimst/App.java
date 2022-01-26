@@ -29,7 +29,7 @@ public class App
         WR simpleHandler2 = new EUR2USD();
         WR simpleHandler3 = new EUR2GBP();
 
-        KonkreterBeobachter konkreterBeobachter = new KonkreterBeobachter(simpleHandler1);
+        KonkreterRssBeobachter konkreterRssBeobachter = new KonkreterRssBeobachter(simpleHandler1);
 
         // Chain of Responsibility erstellen
         //hier muss getypecasted werden
