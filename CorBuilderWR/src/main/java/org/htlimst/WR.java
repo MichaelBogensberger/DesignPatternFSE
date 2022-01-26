@@ -33,8 +33,8 @@ public abstract class WR implements IUmrechnen {
             return this;
         }
 
-        public Builder ofType(WR next) {
-            this.type = next;
+        public Builder ofType(WR type) {
+            this.type = type;
             return this;
         }
 
